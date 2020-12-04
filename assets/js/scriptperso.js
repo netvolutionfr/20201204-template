@@ -1,3 +1,5 @@
+// Fichier de scripts
+
 const login = document.getElementById("login");
 let loggedin = false;
 
